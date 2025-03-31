@@ -35,17 +35,17 @@ if (dineroRoberto >= 0.6 && dineroRoberto < 1) {
 }
 
 if (dineroPedro >= 0.6 && dineroPedro < 1) {
-  alert("Cómprate el helado de agua.");
+  alert("Pedro, cómprate el helado de agua.");
 } else if (dineroPedro >= 1 && dineroPedro < 1.6) {
-  alert("Cómprate el helado de crema.");
+  alert("Pedro, cómprate el helado de crema.");
 } else if (dineroPedro >= 1.6 && dineroPedro < 1.7) {
-  alert("Cómprate el helado de heladix.");
+  alert("Pedro, cómprate el helado de heladix.");
 } else if (dineroPedro >= 1.7 && dineroPedro < 1.8) {
-  alert("Cómprate el helado de heladovich.");
+  alert("Pedro, cómprate el helado de heladovich.");
 } else if (dineroPedro >= 1.8 && dineroPedro < 2.9) {
-  alert("Cómprate el helado de helardo.");
+  alert("Pedro, cómprate el helado de helardo.");
 } else if (dineroPedro >= 2.9) {
-  alert("Helado con confites o el pote de 1/4kg.");
+  alert("Pedro, cómprate el helado con confites o el pote de 1/4kg.");
 } else {
-  alert("No tienes dinero para comprar helado.");
+  alert("Pedro, no tienes dinero para comprar helado.");
 }
